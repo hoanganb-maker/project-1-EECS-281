@@ -1,0 +1,19 @@
+M
+7
+1
+//A map where Marco can never reach the countess :((,
+//and every room has size 1. 
+//castle room 0
+S
+//castle room 1
+#
+//castle room 2
+#
+//castle room 3
+#
+//castle room 4
+#
+//castle room 5
+#
+//castle room 6
+C

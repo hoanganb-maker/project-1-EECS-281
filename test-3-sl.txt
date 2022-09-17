@@ -1,0 +1,16 @@
+M
+3
+3
+//A map where the Countess is at the end of a warp pipe
+//castle room 0
+S..
+...
+..1
+//castle room 1
+...
+.2#
+...
+//castle room 2
+...
+.C.
+...
